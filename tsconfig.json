@@ -3,7 +3,7 @@
     "target": "esnext",
     "module": "esnext",
     "strict": true,
-    "jsx": "preserve",
+    "jsx": "preserve", // typescript 不要编译jsx的语法
     "importHelpers": true,
     "moduleResolution": "node",
     "skipLibCheck": true,
